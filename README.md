@@ -51,11 +51,6 @@ ABMI/
 ├── warning.js
 ├── README.md
 ├── LICENSE
-├── .gitignore
-└── screenshots/
-    ├── extension-popup.png
-    ├── warning-interface.png
-    └── restore-interface.png
 ```
 
 Keep the filenames consistent with the actual files in your repository. The `screenshots/`, `LICENSE`, and `.gitignore` entries are recommended repository additions.
