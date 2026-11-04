@@ -52,7 +52,6 @@ ABMI/
 
 ```
 
-Keep the filenames consistent with the actual files in your repository. The `screenshots/`, `LICENSE`, and `.gitignore` entries are recommended repository additions.
 
 ## Installation and Usage
 
@@ -90,7 +89,7 @@ The Q-learning implementation defines:
 
 The policy's automatic recommendation path is limited to KEEP, WARN, and SUSPEND; CLOSE remains a user-confirmed action. Active, pinned, and audible tabs are protected by the safety logic.
 
-The Q-learning code includes a Q-value update using the reward and next state. The implementation also contains simulated-reward logic and an observed-reward path based on measured system-level resource impact. When presenting results, distinguish simulated reward/testing from rewards obtained during actual user interactions.
+The Q-learning code includes a Q-value update using the reward and next state. The implementation also contains simulated-reward logic and an observed-reward path based on measured system-level resource impact. 
 
 ## Resource Measurement and Limitations
 
