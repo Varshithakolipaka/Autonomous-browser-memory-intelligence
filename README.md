@@ -117,7 +117,12 @@ Test the extension with a controlled set of tabs and record:
 6. Whether system-level RAM/CPU readings are recorded before and after actions.
 7. Whether the Q-table is persisted and updated through the implemented feedback path.
 
-Add genuine screenshots, test cases, and measured results to the repository. Do not publish illustrative values as experimental results.
+<img width="586" height="740" alt="Screenshot 2026-10-13 104845" src="https://github.com/user-attachments/assets/e595d08b-4df8-4c66-a33b-20ee4f92e9b5" />
+
+<img width="542" height="560" alt="Screenshot 2026-10-13 105227" src="https://github.com/user-attachments/assets/176bb2d6-d707-45e6-97dd-50828bfe01c2" />
+
+<img width="557" height="697" alt="Screenshot 2026-10-13 105337" src="https://github.com/user-attachments/assets/58849c49-55c8-43da-9401-782abef87c5f" />
+
 
 ## Future Enhancements
 
