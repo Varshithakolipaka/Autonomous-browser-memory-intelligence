@@ -49,8 +49,7 @@ ABMI/
 ├── popup.js
 ├── warning.html
 ├── warning.js
-├── README.md
-├── LICENSE
+
 ```
 
 Keep the filenames consistent with the actual files in your repository. The `screenshots/`, `LICENSE`, and `.gitignore` entries are recommended repository additions.
