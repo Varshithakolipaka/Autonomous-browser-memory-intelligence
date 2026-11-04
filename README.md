@@ -131,8 +131,6 @@ Add genuine screenshots, test cases, and measured results to the repository. Do 
 
 Developed as a student mini-project by a team from the Department of Artificial Intelligence and Data Science, Chaitanya Bharathi Institute of Technology, Hyderabad.
 
-Add team member names, guide acknowledgement, and academic details here only if all contributors agree to publish them.
 
-## License
 
-Choose and add a license before inviting others to reuse or contribute to this project. For example, use the MIT License only if the project owners intend to permit broad reuse under those terms.
+
